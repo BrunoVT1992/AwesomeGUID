@@ -7,7 +7,6 @@ A list of awesome things related to Globally Unique Identifiers. Sorry if this w
 ## Tools
 
 - [GUIDs Generator](https://www.guidsgenerator.com/): Generate GUIDs / UUIDs instantly locally in your browser with custom formatting and encoding
-- [Guid Generator](https://www.guidgenerator.com/): An online GUID generator
 - [Hot Guids](http://www.secretgeek.net/hotGuids/index.htm): The Social Network for GUIDs, "Is this Guid HOT or NOT?"
 - [Guess a Guid](http://guessaguid.secretgeek.net): The fun guid-guessing game
 - [Cute uid](https://github.com/alexdredmon/cuteuid): Generate Cute UIDs
